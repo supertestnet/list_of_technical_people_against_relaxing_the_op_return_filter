@@ -22,4 +22,4 @@
 | Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 18 |
 | Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 19 |
 | Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 20 |
-| Justin Filip | creator of a Libre Node blocker called Librenacht | https://x.com/innerhat | https://github.com/justinfilip | 21 |
+| Justin Filip | creator of a Libre Relay blocker called Librenacht | https://x.com/innerhat | https://github.com/justinfilip | 21 |
