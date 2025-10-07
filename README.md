@@ -8,10 +8,10 @@
 | Retropex | Ocean Mining | https://x.com/leo_haf | https://github.com/retropex | 4 |
 | Chris Guida | Core Lightning plugins e.g. Smaug | https://x.com/cguida6 | https://github.com/chrisguida | 5 |
 | Tony Klausing | Stable Channels | https://x.com/tonklaus | https://github.com/toneloc | 6 |
-| Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 7 |
-| Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 8 |
-| Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 9 |
-| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 10 |
+| Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 7 |
+| Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 8 |
+| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 9 |
+| Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 10 |
 | Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 11 |
 | Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 12 |
 | Jason Hughes | Ocean Mining | https://x.com/wk057 | | 13 |
@@ -22,3 +22,4 @@
 | Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 18 |
 | Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 19 |
 | Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 20 |
+| Justin Filip | creator of a Libre Node blocker called Librenacht | https://x.com/innerhat | https://github.com/justinfilip | 21 |
