@@ -11,12 +11,12 @@
 | Tony Klausing | Stable Channels | https://x.com/tonklaus | https://github.com/toneloc | 7 |
 | Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 8 |
 | Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 9 |
-| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 10 |
-| Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 11 |
-| Jason Hughes | Ocean Mining | https://x.com/wk057 | | 12 |
-| Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 13 |
-| Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 14 |
-| Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 15 |
+| Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 10 |
+| Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 11 |
+| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 12 |
+| Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 13 |
+| Jason Hughes | Ocean Mining | https://x.com/wk057 | | 14 |
+| Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 15 |
 | BigShiny90 | contributor to Bitcoin Knots | https://x.com/bigshiny90 | https://github.com/bigshiny90 | 16 |
 | Ataraxia | contributor to Bitcoin Knots | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 17 |
 | Pithosian | contributor to Bitcoin Knots | | https://github.com/pithosian | 18 |
