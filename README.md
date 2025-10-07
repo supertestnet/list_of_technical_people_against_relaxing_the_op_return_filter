@@ -10,10 +10,10 @@
 | Chris Guida | Core Lightning plugins e.g. Smaug | https://x.com/cguida6 | https://github.com/chrisguida | 6 |
 | Tony Klausing | Stable Channels | https://x.com/tonklaus | https://github.com/toneloc | 7 |
 | Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 8 |
-| Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 9 |
-| Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 10 |
-| Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 11 |
-| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 12 |
+| Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 9 |
+| Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 10 |
+| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 11 |
+| Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 12 |
 | Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 13 |
 | Jason Hughes | Ocean Mining | https://x.com/wk057 | | 14 |
 | Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 15 |
