@@ -11,7 +11,8 @@
 | Tony Klausing | Stable Channels | https://x.com/tonklaus | https://github.com/toneloc | 7 |
 | Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 8 |
 | Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 9 |
-| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 10 || Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 11 |
+| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 10 |
+| Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 11 |
 | Jason Hughes | Ocean Mining | https://x.com/wk057 | | 12 |
 | Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 13 |
 | Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 14 |
