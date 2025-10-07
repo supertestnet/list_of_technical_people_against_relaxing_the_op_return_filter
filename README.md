@@ -10,16 +10,15 @@
 | Chris Guida | Core Lightning plugins e.g. Smaug | https://x.com/cguida6 | https://github.com/chrisguida | 6 |
 | Tony Klausing | Stable Channels | https://x.com/tonklaus | https://github.com/toneloc | 7 |
 | Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 8 |
-| Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 9 |
-| Jason Hughes | Ocean Mining | https://x.com/wk057 | | 10 |
-| Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 11 |
-| Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 12 |
-| Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 13 |
-| BigShiny90 | Bitcoin Knots contributor | https://x.com/bigshiny90 | https://github.com/bigshiny90 | 14 |
-| Ataraxia | Bitcoin Knots contributor | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 15 |
-| Pithosian | Bitcoin Knots contributor | | https://github.com/pithosian | 16 |
-| Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 17 |
-| Kurtis_NZ | Bitcoin Knots contributor | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 18 |
-| Santiago KW | Bitcoin Knots contributor | | https://github.com/kwsantiago | 19 |
-| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 20 |
-| Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 21 |
+| Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 9 |
+| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 10 || Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 11 |
+| Jason Hughes | Ocean Mining | https://x.com/wk057 | | 12 |
+| Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 13 |
+| Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 14 |
+| Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 15 |
+| BigShiny90 | contributor to Bitcoin Knots | https://x.com/bigshiny90 | https://github.com/bigshiny90 | 16 |
+| Ataraxia | contributor to Bitcoin Knots | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 17 |
+| Pithosian | contributor to Bitcoin Knots | | https://github.com/pithosian | 18 |
+| Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 19 |
+| Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 20 |
+| Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 21 |
