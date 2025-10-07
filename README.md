@@ -11,7 +11,7 @@
 | Tony Klausing | Stable Channels | https://x.com/tonklaus | https://github.com/toneloc | 7 |
 | Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 8 |
 | Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 9 |
-| Praveen Perera | Cove Wallets | https://x.com/PraveenPerera | https://github.com/praveenperera | 10 |
+| Praveen Perera | Cove Wallet | https://x.com/PraveenPerera | https://github.com/praveenperera | 10 |
 | Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 11 |
 | Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 12 |
 | Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 13 |
