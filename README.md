@@ -1,6 +1,6 @@
 # List of technical people against relaxing the op_return filter
 
-| Name | Noteable for | Social media | Github | Count |
+| Name | Notable for | Social media | Github | Count |
 | :------- | :-------: | :------: | :-------: | -------: |
 | Luke Dashjr  | contributor to bitcoin core and bitcoin knots  | https://x.com/LukeDashjr  | https://github.com/luke-jr  | 1 |
 | Jimmy Song | former contributor to bitcoin core and educator | https://x.com/jimmysong | https://github.com/jimmysong | 2 |
