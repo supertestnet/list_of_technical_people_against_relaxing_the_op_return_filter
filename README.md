@@ -1,0 +1,2 @@
+# list_of_technical_people_against_relaxing_the_op_return_filter
+List of technical people against relaxing the op_return filter
