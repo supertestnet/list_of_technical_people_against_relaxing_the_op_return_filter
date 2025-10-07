@@ -2,7 +2,7 @@
 
 | Name | Notable for | Social media | Github | Count |
 | :------- | :-------: | :------: | :-------: | -------: |
-| Luke Dashjr  | contributor to bitcoin core and bitcoin knots  | https://x.com/LukeDashjr  | https://github.com/luke-jr  | 1 |
+| Luke Dashjr  | contributor to bitcoin core and maintainer of bitcoin knots  | https://x.com/LukeDashjr  | https://github.com/luke-jr  | 1 |
 | Jimmy Song | former contributor to bitcoin core and educator | https://x.com/jimmysong | https://github.com/jimmysong | 2 |
 | Matt Hill | Start9 Labs | https://x.com/MattHill | https://github.com/MattDHill | 3 |
 | Jan3 | Aqua Wallet | https://x.com/JAN3com | | 4 |
