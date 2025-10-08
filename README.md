@@ -20,17 +20,16 @@ By "technical people" I mean people who write or review code for protocols and a
 | Cory Wilbur | Hoseki App, also former director of engineering at Strike | https://x.com/cwilbzz | https://github.com/cwilbur12 | 12 |
 | Nick Tee | El-Tor | https://x.com/nickteecee | https://bitbucket.org/eltordev/eltor/src/main/ | 13 |
 | Adam Simecka | Manna Wallet | https://mannabitcoin.com | | 14 |
-| Giacomo Zucco | educator and co-initiator of development on the RGB protocol | https://x.com/giacomozucco | https://github.com/giacomozucco | 15 |
-| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 16 |
-| Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 17 |
-| Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 18 |
-| Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 19 |
-| Jason Hughes | Ocean Mining | https://x.com/wk057 | | 20 |
-| Justin Filip | creator of a Libre Relay blocker called Librenacht | https://x.com/innerhat | https://github.com/justinfilip | 21 |
-| Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 22 |
-| BigShiny90 | contributor to Bitcoin Knots | https://x.com/bigshiny90 | https://github.com/bigshiny90 | 23 |
-| Ataraxia | contributor to Bitcoin Knots | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 24 |
-| Pithosian | contributor to Bitcoin Knots | | https://github.com/pithosian | 25 |
-| Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 26 |
-| Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 27 |
-| Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 28 |
+| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 15 |
+| Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 16 |
+| Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 17 |
+| Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 18 |
+| Jason Hughes | Ocean Mining | https://x.com/wk057 | | 19 |
+| Justin Filip | creator of a Libre Relay blocker called Librenacht | https://x.com/innerhat | https://github.com/justinfilip | 20 |
+| Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 21 |
+| BigShiny90 | contributor to Bitcoin Knots | https://x.com/bigshiny90 | https://github.com/bigshiny90 | 22 |
+| Ataraxia | contributor to Bitcoin Knots | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 23 |
+| Pithosian | contributor to Bitcoin Knots | | https://github.com/pithosian | 24 |
+| Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 25 |
+| Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 26 |
+| Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 27 |
