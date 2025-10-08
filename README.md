@@ -28,8 +28,9 @@ By "technical people" I mean people who write or review code for protocols and a
 | Justin Filip | creator of a Libre Relay blocker called Librenacht | https://x.com/innerhat | https://github.com/justinfilip | 20 |
 | Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 21 |
 | BigShiny90 | contributor to Bitcoin Knots | https://x.com/bigshiny90 | https://github.com/bigshiny90 | 22 |
-| Ataraxia | contributor to Bitcoin Knots | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 23 |
-| Pithosian | contributor to Bitcoin Knots | | https://github.com/pithosian | 24 |
-| Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 25 |
-| Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 26 |
-| Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 27 |
+| Ant | React dev in the BTCPay community | https://x.com/2140data | https://github.com/2140data | 23 |
+| Ataraxia | contributor to Bitcoin Knots | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 24 |
+| Pithosian | contributor to Bitcoin Knots | | https://github.com/pithosian | 25 |
+| Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 26 |
+| Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 27 |
+| Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 28 |
