@@ -32,3 +32,4 @@ By "technical people" I mean people who write or review code for protocols and a
 | Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 24 |
 | Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 25 |
 | Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 26 |
+| Greg Tonoski | contrib. to wtfhappenedinfeb2023.com | https://x.com/GregTonoski | https://github.com/GregTonoski | 27 |
