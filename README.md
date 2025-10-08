@@ -16,7 +16,7 @@ By "technical people" I mean people who write or review code for protocols and a
 | Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 8 |
 | Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 9 |
 | Praveen Perera | Cove Wallet | https://x.com/PraveenPerera | https://github.com/praveenperera | 10 |
-| Cory Wilbur | Hoseki App, also former director of engineering at Strike | https://x.com/cwilbzz | | 11 |
+| Cory Wilbur | Hoseki App, also former director of engineering at Strike | https://x.com/cwilbzz | https://github.com/cwilbur12 | 11 |
 | Nick Tee | El-Tor | https://x.com/nickteecee | https://bitbucket.org/eltordev/eltor/src/main/ | 12 |
 | Giacomo Zucco | educator and co-initiator of development on the RGB protocol | https://x.com/giacomozucco | https://github.com/giacomozucco | 13 |
 | Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 14 |
