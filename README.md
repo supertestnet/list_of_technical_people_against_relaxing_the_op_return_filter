@@ -1,5 +1,9 @@
 # List of technical people against relaxing the op_return filter
 
+I am making this list because I talked to 3 different people recently who plan to remain on Bitcoin Core due to their impression that a "consensus of the devs" favors relaxing the op_return filters, and that only a handful of technical people dispute this consensus. I want to show that there is no such consensus.
+
+By "technical people" I mean people who write or review code for protocols and apps that are (1) bitcoin itself (2) "on" bitcoin (e.g. wallets) (3) bitcoin adjacent (e.g. Liquid)
+
 | Name | Notable for | Social media | Github | Count |
 | :------- | :-------: | :------: | :-------: | -------: |
 | Luke Dashjr  | contributor to bitcoin core and maintainer of bitcoin knots  | https://x.com/LukeDashjr  | https://github.com/luke-jr  | 1 |
@@ -12,16 +16,17 @@
 | Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 8 |
 | Floppy Disk Guy | Joinstr | https://x.com/1440000bytes | https://github.com/1440000bytes | 9 |
 | Praveen Perera | Cove Wallet | https://x.com/PraveenPerera | https://github.com/praveenperera | 10 |
-| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 11 |
-| Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 12 |
-| Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 13 |
-| Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 14 |
-| Jason Hughes | Ocean Mining | https://x.com/wk057 | | 15 |
-| Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 16 |
-| BigShiny90 | contributor to Bitcoin Knots | https://x.com/bigshiny90 | https://github.com/bigshiny90 | 17 |
-| Ataraxia | contributor to Bitcoin Knots | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 18 |
-| Pithosian | contributor to Bitcoin Knots | | https://github.com/pithosian | 19 |
-| Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 20 |
-| Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 21 |
-| Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 22 |
-| Justin Filip | creator of a Libre Relay blocker called Librenacht | https://x.com/innerhat | https://github.com/justinfilip | 23 |
+| Cory Wilbur | Hoseki App, also former director of engineering at strike | https://x.com/cwilbzz | | 11 |
+| Super Testnet | various Layer 2 prototypes | https://x.com/supertestnet | https://github.com/supertestnet | 12 |
+| Marcel Hernandez | Php development for bitcoin | https://x.com/oomahq | https://github.com/1ma | 13 |
+| Fractal Encrypt | combining bitcoin software and artistry | https://x.com/fractalencrypt | https://github.com/fractalencrypt | 14 |
+| Laurent MT | BitID | https://x.com/laurentmt | https://github.com/LaurentMT | 15 |
+| Jason Hughes | Ocean Mining | https://x.com/wk057 | | 16 |
+| Tony Yazbeck | IT expert from The Bitcoin Way | https://x.com/V4BTC | | 17 |
+| BigShiny90 | contributor to Bitcoin Knots | https://x.com/bigshiny90 | https://github.com/bigshiny90 | 18 |
+| Ataraxia | contributor to Bitcoin Knots | https://x.com/009Ataraxi71445 | https://github.com/ataraxia009 | 19 |
+| Pithosian | contributor to Bitcoin Knots | | https://github.com/pithosian | 20 |
+| Dr0ther | maintainer of Bitcoin Knots docker image | https://x.com/dr0ther | https://github.com/dr0ther | 21 |
+| Kurtis_NZ | contributor to Bitcoin Knots | https://x.com/Kurtis_NZ | https://github.com/KurtisStirling | 22 |
+| Santiago KW | contributor to Bitcoin Knots | | https://github.com/kwsantiago | 23 |
+| Justin Filip | creator of a Libre Relay blocker called Librenacht | https://x.com/innerhat | https://github.com/justinfilip | 24 |
