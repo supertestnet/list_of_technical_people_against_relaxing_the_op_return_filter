@@ -10,7 +10,7 @@ By "technical people" I mean people who write or review code for protocols and a
 | Jimmy Song | former contributor to bitcoin core and educator | https://x.com/jimmysong | https://github.com/jimmysong | 2 |
 | Matt Hill | Start9 Labs | https://x.com/MattHill | https://github.com/MattDHill | 3 |
 | Retropex | Ocean Mining | https://x.com/leo_haf | https://github.com/retropex | 4 |
-| Bitcoin Mechanic | Contributions to Datum | https://x.com/grassfedbitcoin | https://github.com/BitcoinMechanic | 5 |
+| Bitcoin Mechanic | contributor to Datum | https://x.com/grassfedbitcoin | https://github.com/BitcoinMechanic | 5 |
 | Chris Guida | Core Lightning plugins e.g. Smaug | https://x.com/cguida6 | https://github.com/chrisguida | 6 |
 | Tony Klausing | Stable Channels | https://x.com/tonklaus | https://github.com/toneloc | 7 |
 | Arman the Parman | Parmanode | https://x.com/parman_the | https://github.com/ArmanTheParman | 8 |
