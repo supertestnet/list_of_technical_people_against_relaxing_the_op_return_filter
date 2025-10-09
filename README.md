@@ -7,7 +7,7 @@ By "technical people" I mean people who write or review code for protocols and a
 | Name | Notable for | Social media | Github | Count |
 | :------- | :-------: | :------: | :-------: | -------: |
 | Luke Dashjr | contributor to bitcoin core and maintainer of bitcoin knots | https://x.com/LukeDashjr | https://github.com/luke-jr | 1 |
-| Larruy Ruane | contributor to bitcoin core | https://x.com/larryruane | https://github.com/bitcoin/bitcoin/commits?author=larryruane | 2 |
+| Larry Ruane | contributor to bitcoin core | https://x.com/larryruane | https://github.com/bitcoin/bitcoin/commits?author=larryruane | 2 |
 | Jimmy Song | former contributor to bitcoin core and educator | https://x.com/jimmysong | https://github.com/jimmysong | 3 |
 | Jorge Timon | former contributor to bitcoin core | https://x.com/timoncc | https://github.com/bitcoin/bitcoin/commits?author=jtimon | 4 |
 | Matt Hill | Start9 Labs | https://x.com/MattHill | https://github.com/MattDHill | 5 |
